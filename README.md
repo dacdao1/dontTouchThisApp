@@ -1,4 +1,4 @@
-# dontTouchThisApp
+# Don't Touch This App
 My first web app that use the mouseOver and mouseOut event handler that change the data on the page.
 
 Please make sure that you install `node.js` on your computer and then use `npm install` on your command prompt
